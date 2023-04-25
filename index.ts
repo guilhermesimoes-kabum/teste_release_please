@@ -7,4 +7,7 @@ export function main() {
   console.log("peguei meu fuscao vermelho e sai desesperado");
   console.log("passando em jaraguari comi o cu de um viado");
   console.log("se vc quer me dar, mas acha que eu tenho um bilal pequeno");
+  console.log(
+    "toda vez que eu chego em casa a barata da vizinha ta na minha cama"
+  );
 }
