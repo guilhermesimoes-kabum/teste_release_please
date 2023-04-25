@@ -1,5 +1,42 @@
 # Changelog
 
+## [2.2.0](https://github.com/guilhermesimoes-kabum/teste_release_please/compare/teste_release_please-v2.1.1...teste_release_please-v2.2.0) (2023-04-25)
+
+
+### Features
+
+* vamos incrementar o minor e zerar o patch ([cc9db04](https://github.com/guilhermesimoes-kabum/teste_release_please/commit/cc9db0419378719b45f8a7724dad06b6a4f596b5))
+
+## [2.1.1](https://github.com/guilhermesimoes-kabum/teste_release_please/compare/teste_release_please-v2.1.0...teste_release_please-v2.1.1) (2023-04-25)
+
+
+### Bug Fixes
+
+* commit de fix que tem que atualizar o patch pelo amor de deus ([d9d2c0b](https://github.com/guilhermesimoes-kabum/teste_release_please/commit/d9d2c0b5b1c5aba98f00ea31f9c82de9e749ccde))
+
+## [2.1.0](https://github.com/guilhermesimoes-kabum/teste_release_please/compare/teste_release_please-v2.0.0...teste_release_please-v2.1.0) (2023-04-25)
+
+
+### Features
+
+* commit do minor ([1bfa8e9](https://github.com/guilhermesimoes-kabum/teste_release_please/commit/1bfa8e9322359b9cf395eb6d936d1c1c0f05c3a4))
+
+
+### Bug Fixes
+
+* isso e um commit pra patch ([482dd9b](https://github.com/guilhermesimoes-kabum/teste_release_please/commit/482dd9b087553d55c6e0942b92b528cb7a028f35))
+
+## [2.0.0](https://github.com/guilhermesimoes-kabum/teste_release_please/compare/teste_release_please-v1.2.0...teste_release_please-v2.0.0) (2023-04-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* teste
+
+### Features
+
+* teste ([b5684dd](https://github.com/guilhermesimoes-kabum/teste_release_please/commit/b5684dd7aa92ada85e41b9e561d297f8ba719605))
+
 ## [1.2.0](https://github.com/guilhermesimoes-kabum/teste_release_please/compare/teste_release_please-v1.1.0...teste_release_please-v1.2.0) (2023-04-25)
 
 

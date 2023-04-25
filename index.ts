@@ -10,7 +10,15 @@ export function main() {
   console.log(
     "toda vez que eu chego em casa a barata da vizinha ta na minha cama"
   );
+<<<<<<< HEAD
   console.log(
     "O santos é maior do mundo"
   );
+=======
+
+  console.log("isso e um commit do minor");
+  console.log("isso e um commit do patch - TENTATIVA 2");
+
+  console.log("AAAAAAAAAAAAAAAAAAA ENTENDIIIIIIII");
+>>>>>>> origin/master
 }
