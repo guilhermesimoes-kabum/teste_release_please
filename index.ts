@@ -20,5 +20,10 @@ export function main() {
   console.log("isso e um commit do patch - TENTATIVA 2");
 
   console.log("AAAAAAAAAAAAAAAAAAA ENTENDIIIIIIII");
+<<<<<<< Updated upstream
 >>>>>>> origin/master
+=======
+
+  console.log("alguma coisa para teste");
+>>>>>>> Stashed changes
 }
