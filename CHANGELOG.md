@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.3.0](https://github.com/guilhermesimoes-kabum/teste_release_please/compare/teste_release_please-v2.2.0...teste_release_please-v2.3.0) (2023-04-25)
+
+
+### Features
+
+* criado santos maior de todos ([5715fdd](https://github.com/guilhermesimoes-kabum/teste_release_please/commit/5715fddcd9b73ab6f23fad9c5c2f95d9b1afa303))
+* merge ([ded75f3](https://github.com/guilhermesimoes-kabum/teste_release_please/commit/ded75f3a11b5babd65839591ecbf0315460ac36b))
+* santos maior de todos ([0fa4680](https://github.com/guilhermesimoes-kabum/teste_release_please/commit/0fa46808552c25e8713ec4d3b0332e6352e24c90))
+
 ## [2.2.0](https://github.com/guilhermesimoes-kabum/teste_release_please/compare/teste_release_please-v2.1.1...teste_release_please-v2.2.0) (2023-04-25)
 
 
