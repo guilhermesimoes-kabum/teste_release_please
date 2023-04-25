@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.1](https://github.com/guilhermesimoes-kabum/teste_release_please/compare/teste_release_please-v2.1.0...teste_release_please-v2.1.1) (2023-04-25)
+
+
+### Bug Fixes
+
+* commit de fix que tem que atualizar o patch pelo amor de deus ([d9d2c0b](https://github.com/guilhermesimoes-kabum/teste_release_please/commit/d9d2c0b5b1c5aba98f00ea31f9c82de9e749ccde))
+
 ## [2.1.0](https://github.com/guilhermesimoes-kabum/teste_release_please/compare/teste_release_please-v2.0.0...teste_release_please-v2.1.0) (2023-04-25)
 
 
