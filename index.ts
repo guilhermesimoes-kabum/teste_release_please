@@ -10,4 +10,7 @@ export function main() {
   console.log(
     "toda vez que eu chego em casa a barata da vizinha ta na minha cama"
   );
+  console.log(
+    "O santos é maior do mundo"
+  );
 }
