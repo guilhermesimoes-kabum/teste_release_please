@@ -10,4 +10,6 @@ export function main() {
   console.log(
     "toda vez que eu chego em casa a barata da vizinha ta na minha cama"
   );
+
+  console.log("isso e um commit do minor");
 }
