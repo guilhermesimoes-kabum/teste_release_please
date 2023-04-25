@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.1.0](https://github.com/guilhermesimoes-kabum/teste_release_please/compare/teste_release_please-v1.0.0...teste_release_please-v1.1.0) (2023-04-25)
+
+
+### Features
+
+* approve ([24db632](https://github.com/guilhermesimoes-kabum/teste_release_please/commit/24db6320837121f79cccedb51defa27b3414bd57))
+* como vou viver sem meu carango pra correr ([7ad9676](https://github.com/guilhermesimoes-kabum/teste_release_please/commit/7ad96769370293720b196f46f37bd3a749a5bb04))
+* dddd ([43e0b6c](https://github.com/guilhermesimoes-kabum/teste_release_please/commit/43e0b6c372b24eb2cf1881434622f8d0b759ab72))
+* e o no bilhete ela dizia que iria me encontrar ([963faac](https://github.com/guilhermesimoes-kabum/teste_release_please/commit/963faacdbf5362c7a11f30984af6331b0ce47105))
+* fuscao preeeetoooooo ([457279f](https://github.com/guilhermesimoes-kabum/teste_release_please/commit/457279f26d8e27e08cdb847af491e6768a235242))
+
 ## 1.0.0 (2023-04-25)
 
 
