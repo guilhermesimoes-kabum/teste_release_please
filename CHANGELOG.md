@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/guilhermesimoes-kabum/teste_release_please/compare/teste_release_please-v1.2.0...teste_release_please-v2.0.0) (2023-04-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* teste
+
+### Features
+
+* teste ([b5684dd](https://github.com/guilhermesimoes-kabum/teste_release_please/commit/b5684dd7aa92ada85e41b9e561d297f8ba719605))
+
 ## [1.2.0](https://github.com/guilhermesimoes-kabum/teste_release_please/compare/teste_release_please-v1.1.0...teste_release_please-v1.2.0) (2023-04-25)
 
 
