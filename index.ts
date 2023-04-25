@@ -10,20 +10,17 @@ export function main() {
   console.log(
     "toda vez que eu chego em casa a barata da vizinha ta na minha cama"
   );
-<<<<<<< HEAD
   console.log(
     "O santos é maior do mundo"
   );
-=======
+
 
   console.log("isso e um commit do minor");
   console.log("isso e um commit do patch - TENTATIVA 2");
 
   console.log("AAAAAAAAAAAAAAAAAAA ENTENDIIIIIIII");
-<<<<<<< Updated upstream
->>>>>>> origin/master
-=======
+
 
   console.log("alguma coisa para teste");
->>>>>>> Stashed changes
+  console.log("alguma coisa para teste 2");
 }
