@@ -6,6 +6,7 @@ on:
 permissions:
   contents: write
   pull-requests: write
+  approve: write
 
 name: release-please
 
