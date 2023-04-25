@@ -13,4 +13,6 @@ export function main() {
 
   console.log("isso e um commit do minor");
   console.log("isso e um commit do patch - TENTATIVA 2");
+
+  console.log("AAAAAAAAAAAAAAAAAAA ENTENDIIIIIIII");
 }
