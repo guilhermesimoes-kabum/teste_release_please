@@ -12,4 +12,5 @@ export function main() {
   );
 
   console.log("isso e um commit do minor");
+  console.log("isso e um commit do patch");
 }
