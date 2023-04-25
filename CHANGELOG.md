@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0](https://github.com/guilhermesimoes-kabum/teste_release_please/compare/teste_release_please-v2.1.1...teste_release_please-v2.2.0) (2023-04-25)
+
+
+### Features
+
+* vamos incrementar o minor e zerar o patch ([cc9db04](https://github.com/guilhermesimoes-kabum/teste_release_please/commit/cc9db0419378719b45f8a7724dad06b6a4f596b5))
+
 ## [2.1.1](https://github.com/guilhermesimoes-kabum/teste_release_please/compare/teste_release_please-v2.1.0...teste_release_please-v2.1.1) (2023-04-25)
 
 
