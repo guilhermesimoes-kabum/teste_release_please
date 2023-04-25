@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.4.0](https://github.com/guilhermesimoes-kabum/teste_release_please/compare/teste_release_please-v2.3.0...teste_release_please-v2.4.0) (2023-04-25)
+
+
+### Features
+
+* vamos la agora vai ([1452435](https://github.com/guilhermesimoes-kabum/teste_release_please/commit/1452435592e88ace8a39c9080fcca4852184572d))
+
 ## [2.3.0](https://github.com/guilhermesimoes-kabum/teste_release_please/compare/teste_release_please-v2.2.0...teste_release_please-v2.3.0) (2023-04-25)
 
 
