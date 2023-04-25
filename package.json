@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/guilhermesimoes-kabum/teste_release_please/issues"
   },
-  "homepage": "https://github.com/guilhermesimoes-kabum/teste_release_please#readme"
+  "homepage": "https://github.com/guilhermesimoes-kabum/teste_release_please#readme",
+  "dependencies": {
+    "release-please": "^15.10.4"
+  }
 }
