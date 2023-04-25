@@ -1,0 +1,19 @@
+{
+  "name": "teste_release_please",
+  "version": "1.0.0",
+  "description": "project to test lib release-please",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermesimoes-kabum/teste_release_please.git"
+  },
+  "author": "guilherme giacomo simoes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guilhermesimoes-kabum/teste_release_please/issues"
+  },
+  "homepage": "https://github.com/guilhermesimoes-kabum/teste_release_please#readme"
+}
